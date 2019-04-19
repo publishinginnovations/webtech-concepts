@@ -105,8 +105,7 @@ or make an appointment to talk with me about the topic.
 
 40. What does UX mean?
 
-41. Can Journalism 341 be described as a course in front-end design? If
-    so, briefly in one or two sentences explain why?
+* Describe what is meant by front-end design in one or two sentences?  
 
 42. Can CSS control all the formatting in a web page?
 
